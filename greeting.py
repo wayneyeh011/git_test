@@ -9,3 +9,6 @@ def say_goodbye():
 
 def say_no():
     print('no')
+
+def say_woof():
+    print('woof')
