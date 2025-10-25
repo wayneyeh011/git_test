@@ -24,3 +24,6 @@ def branch1():
 
 def branch1_a1():
     print('a1')
+
+def branch1_a2():
+    print('b2')
