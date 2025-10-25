@@ -1,4 +1,5 @@
 def say_hi():
+    """add some doc. string"""
     print('hi')
 
 def say_hello():
