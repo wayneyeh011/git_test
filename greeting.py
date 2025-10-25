@@ -3,6 +3,7 @@ def say_hi():
     print('hi')
 
 def say_hello():
+    """add some more words"""
     print('hello')
 
 def say_goodbye():
