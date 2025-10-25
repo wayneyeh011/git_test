@@ -10,5 +10,8 @@ def say_goodbye():
 def say_no():
     print('no')
 
+def col_help1():
+    print(1)
+
 def something_new():
     print('new')
