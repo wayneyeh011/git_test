@@ -21,3 +21,6 @@ def something_new():
 # -----------------------
 def branch1():
     print('dev something on dev1')
+
+def branch1_a1():
+    print('a1')
