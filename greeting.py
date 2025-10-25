@@ -9,3 +9,6 @@ def say_goodbye():
 
 def say_no():
     print('no')
+
+def something_new():
+    print('new')
